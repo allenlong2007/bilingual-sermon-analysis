@@ -1,0 +1,9 @@
+mlx-whisper
+certifi
+pandas
+numpy
+scikit-learn
+sentence-transformers
+jieba
+matplotlib
+jupyter
